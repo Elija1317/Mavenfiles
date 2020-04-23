@@ -1,2 +1,2 @@
 Hello, World!
-Deploy web application from jenkins with ansible and docker
+Deploying web application using copy artifact plugin and deploy container plugin
